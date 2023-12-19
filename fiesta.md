@@ -4,12 +4,15 @@
 
 comentario 1
 ---
+
+Esto es algo añadido
+
 comentario 2
 
-Y yo voy a ñadir otro contenido desde la rama feature/pedro
+Y yo voy a añadir otro contenido desde la rama feature/pedro, correccion de texto
 
 
 
 ***
 
-y aqui solo para que añada
+y aqui solo para que añada algo mas
