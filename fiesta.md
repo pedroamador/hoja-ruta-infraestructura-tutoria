@@ -16,3 +16,5 @@ Y yo voy a añadir otro contenido desde la rama feature/pedro, correccion de tex
 ***
 
 y aqui solo para que añada algo mas
+
+Añado una línea para ver cuál es el límite de mensaje de commit
